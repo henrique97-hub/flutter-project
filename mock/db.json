@@ -1,0 +1,36 @@
+{
+  "dadosPlaca": [
+    {
+      "equipamento": "aaa000",
+      "codigo_equipamento": "Disjuntor Corredor",
+      "mac_address": "E0:E0:E0:E0",
+      "nome_setor": "corredor",
+      "nome_unidade": "Medial Service",
+      "campos_adicionais_placa": "{\"notificadores\":null, \"variaveis_criticas\":[\"temperatura_interna\"]}"
+    },
+    {
+      "equipamento": "aab111",
+      "codigo_equipamento": "Sala diretoria",
+      "mac_address": "E1:E1:E1:E1",
+      "nome_setor": "corredor",
+      "nome_unidade": "Vila Mariana",
+      "campos_adicionais_placa": "{\"notificadores\":null, \"variaveis_criticas\":[\"temperatura_interna\", \"temperatura_externa\",\"umidade_externa\"]}"
+    },
+    {
+      "equipamento": "aac222",
+      "codigo_equipamento": "Sala diretoria",
+      "mac_address": "E1:E1:E1:E1",
+      "nome_setor": "Sala principal",
+      "nome_unidade": "Vila Mariana",
+      "campos_adicionais_placa": "{\"notificadores\":null, \"variaveis_criticas\":[\"temperatura_interna\", \"temperatura_externa\",\"umidade_externa\"]}"
+    },
+    {
+      "equipamento": "aad333",
+      "codigo_equipamento": "Garagem",
+      "mac_address": "E2:E2:E2:E2",
+      "nome_setor": "Area interna",
+      "nome_unidade": "Barueri",
+      "campos_adicionais_placa": "{\"notificadores\":null, \"variaveis_criticas\":[\"temperatura_interna\"]}"
+    }
+  ]
+}
